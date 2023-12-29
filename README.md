@@ -23,6 +23,7 @@ Repository ini dibuat sebagai tempat penyimpanan semua tugas dan proyek pemrogra
 
 ## Medsos Dan Kontak
 Jika Anda memiliki pertanyaan atau ingin berhubungan dengan saya, silakan hubungi melalui:
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nullz_ky)
 
 
